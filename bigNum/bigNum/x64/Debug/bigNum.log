@@ -1,0 +1,9 @@
+﻿  bigNum.c
+D:\Проекты\summer prac\bigNum\bigNum\bigNum.c(5,8): warning C4090: инициализация: разные квалификаторы "const"
+D:\Проекты\summer prac\bigNum\bigNum\bigNum.c(15,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\summer prac\bigNum\bigNum\bigNum.c(66,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\summer prac\bigNum\bigNum\bigNum.c(124,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\summer prac\bigNum\bigNum\bigNum.c(355,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.c
+  Создание кода...
+  bigNum.vcxproj -> D:\Проекты\summer prac\bigNum\x64\Debug\bigNum.exe
