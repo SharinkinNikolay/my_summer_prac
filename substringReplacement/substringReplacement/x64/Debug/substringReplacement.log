@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Проекты\summer prac\substringReplacement\substringReplacement\main.c(7,12): warning C4013: get_string_length: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Проекты\summer prac\substringReplacement\substringReplacement\main.c(64,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  substringReplacement.vcxproj -> D:\Проекты\summer prac\substringReplacement\x64\Debug\substringReplacement.exe
